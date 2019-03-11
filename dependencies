@@ -1,0 +1,1 @@
+python3 -m pip install 'chatterbot==0.8.7' --force-reinstall
