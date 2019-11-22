@@ -1,2 +1,2 @@
-chatterbot 0.8.7
+chatterbot==0.8.7
   
